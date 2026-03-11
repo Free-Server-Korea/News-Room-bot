@@ -25,8 +25,8 @@ dependencies = [
 
 
 [project.urls]
-Homepage = "https://github.com/janganene/News-Room-bot"
-Issues = "https://github.com/janganene/News-Room-bot/issues"
+Homepage = "https://github.com/Free-Server-Korea/News-Room-bot"
+Issues = "https://github.com/Free-Server-Korea/News-Room-bot/issues"
 
 [build-system]
 requires = ["setuptools", "wheel"]
